@@ -14,3 +14,6 @@
 * Most zones are all within 60 miles
 
 ### 3.) Benefits of AZ
+* The servers run a lot faster.
+* Flexibility and many resources available.
+* Lower cost
