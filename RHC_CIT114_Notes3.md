@@ -17,3 +17,5 @@
 * The servers run a lot faster.
 * Flexibility and many resources available.
 * Lower cost
+* Can run your server all across the world.
+* 
